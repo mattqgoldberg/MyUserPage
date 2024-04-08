@@ -49,7 +49,7 @@ I feel like I am leaning toward to former but who knows.
 
 ## Goals
 - [x] Have fun
-- [] Make some cool stuff (in progress)
+- [ ] Make some cool stuff (in progress)
 
 
 ## [README](README.md)
