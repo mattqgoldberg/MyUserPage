@@ -54,7 +54,7 @@ I feel like I am leaning toward to former but who knows.
 
 ## [README](README.md)
 
-## [The Top](https://github.com/mattqgoldberg/MyUserPage/blob/main/index.md#matts-user-page)
+## [The Basics](https://mattqgoldberg.github.io/MyUserPage/#the-basics)
 
 
 
