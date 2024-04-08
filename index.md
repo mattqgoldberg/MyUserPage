@@ -46,6 +46,14 @@ def func()
 ```
 I feel like I am leaning toward to former but who knows.
 
+
+## Goals
+- [x] Have fun
+- [] Make some cool stuff (in progress)
+
+
+## [README](README.md)
+
 ## [The Top](https://github.com/mattqgoldberg/MyUserPage/blob/main/index.md#matts-user-page)
 
 
