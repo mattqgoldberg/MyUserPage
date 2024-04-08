@@ -29,11 +29,16 @@ I have been programming in some form since maybe 5th grade. I was taught block c
 
 > Assembly is like writing a cooking recipe by telling the reader to move their individual muscles
 
+## A Dilemma
 
+I can't decide if I like `def func() {
+#some code
+}` or `def func()
+{
+#some code
+}` better. I feel like I am leaning toward to former but who knows.
 
-
-I have found from making
-## [The Top]()
+## [The Top](https://github.com/mattqgoldberg/MyUserPage/blob/main/index.md#matts-user-page)
 
 
 
